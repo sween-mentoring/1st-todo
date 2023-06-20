@@ -3,7 +3,7 @@
 
 ## 1차 멘토링
 
-1. Spring 초기화 및 퍼스트파티 패키지 목록 이해하기
+1. Spring 초기화 및 스프링 생태계 패키지 목록 이해하기
 2. 프로젝트 JDK 이해하기
 3. Gradle 태스크 구조 이해하기
 4. Controller 및 SpringBootApplication 이해하기
